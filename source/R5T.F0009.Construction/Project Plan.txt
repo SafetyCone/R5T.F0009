@@ -1,0 +1,3 @@
+R5T.F0009.Construction - Construction project for Add-simple functionality for Roslyn syntax values..
+
+GOALS:
