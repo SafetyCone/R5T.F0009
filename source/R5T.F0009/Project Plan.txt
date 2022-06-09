@@ -1,3 +1,7 @@
 R5T.F0009 - Add-simple functionality for Roslyn syntax values.
 
-GOALS:
+
+Allowed Dependencies:
+
+R5T.L0011 - Microsoft.CodeAnalysis (Roslyn) library Nuget package version selector.
+R5T.T0132 - FunctionalityMarker attribute and interface.
